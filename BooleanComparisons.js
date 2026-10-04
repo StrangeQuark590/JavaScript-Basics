@@ -27,3 +27,14 @@ console.log( null > 0 );  // (1) false
 console.log( null == 0 ); // (2) false
 console.log( null >= 0 ); // (3) true
 
+[] = ![];   //true
+
+[] == 0      // true
+[0] == 0     // true
+[1] == 1     // true
+
+NaN == NaN      // false
+NaN === NaN     // false
+NaN > 0         // false
+Boolean(NaN)    // false
+

@@ -48,7 +48,7 @@ console.log( 1 && 2 && 3 ); // 3, the last one
 //Work-Flow : converts the variable into a boolean if it isn't already.
 // Returns the inverse value of the converted boolean
 
-//So sometimes, not operator is also used to convert the variable into a boolean through doule negation
+//So sometimes, not operator is also used to convert the variable into a boolean through double negation
 
 //example : 
 

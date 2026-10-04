@@ -25,7 +25,7 @@ console.log(9 ** 4);
 console.log(9 / 4);
 console.log(9 % 4);
 
-//post, pre increment and post, pre decrement are done the same way as c++.
+//post, pre increment and post, pre decrement are done the same way as C++.
 
 // +=, *=, /=, etc are also all valid 
 
